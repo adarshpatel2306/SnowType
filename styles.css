@@ -3,7 +3,7 @@
     --bgColor: #333;
     --textPrimary: #fff;
     --textSecondary: #666;
-    --primaryColor: #fd4;
+    --primaryColor: rgb(49, 179, 255);
 }
 body {
     font-family: 'Roboto', sans-serif;
